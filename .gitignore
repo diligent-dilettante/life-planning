@@ -1,0 +1,8 @@
+# Test transcripts and fixtures. Useful while building, not for publication.
+life-planning-workspace/
+personas/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
