@@ -9,6 +9,9 @@ filled in to look complete is worse than nothing.
 **Name:** [name]
 **Started:** [date]
 **Last session:** [date] — [type]
+**The shape of their week:** [one line. When the usable blocks actually are, what the unit
+is if it isn't a week, and what gets them started. Established once, early. Only revisit it
+if their life changes.]
 
 ---
 

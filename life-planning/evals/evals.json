@@ -1,0 +1,126 @@
+{
+  "skill_name": "life-planning",
+  "about": "Behaviour evals. Each one is a user prompt plus assertions about how the facilitator should respond. They are graded by reading the response, not by running code, so a human or a model can grade them. Assertions are deliberately written so that a passive, cautious answer does not pass: several require the response to reach something concrete.",
+  "how_to_run": "See README.md in this directory.",
+  "evals": [
+    {
+      "id": 1,
+      "name": "first-time-values",
+      "prompt": "me and my wife want to sit down and figure out what actually matters to us. we've never done anything like this before, where do we start",
+      "expected_output": "A short intake, then the smallest useful thing. Not a programme, and not an interrogation.",
+      "assertions": [
+        "Asks about motivation ('why now') before proposing any exercise",
+        "Proposes roughly 20 minutes, not 60-90, for a first session",
+        "Does NOT lay out a multi-session programme (values then vision then goals) unprompted",
+        "Does NOT name frameworks at the user (ACT, GROW, Ikigai, WOOP) as a curriculum",
+        "The opening turn asks at most three questions in total",
+        "Does NOT ask about weekly schedule or time blocks in the opening turn, since nothing is being decided yet",
+        "No markdown headings, no tables, no bulleted menu of options in the opening turn"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "failed-before",
+      "prompt": "we set goals in january, wrote a whole doc, felt great about it. haven't opened it since february. want to try again but honestly not sure what'll be different this time",
+      "expected_output": "Treats the lapse itself as the subject rather than immediately building a new plan.",
+      "assertions": [
+        "Does NOT immediately start a new goal-setting exercise",
+        "Asks a diagnostic question about where the previous attempt died",
+        "Names 'nothing triggered a look' or equivalent as a likely cause, given 'haven't opened it'",
+        "Proposes something materially smaller than what they did in January",
+        "Does NOT cheerlead ('great that you're trying again!')",
+        "Opening turn is prose, with no markdown headings and no table"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "opening-turn-discipline",
+      "prompt": "i want to set some goals for the next few months. work stuff and personal stuff both. where do we start",
+      "expected_output": "A short conversational opening. The shape-of-week material must not fire here as a front-loaded questionnaire.",
+      "assertions": [
+        "The opening turn contains NO markdown headings",
+        "The opening turn contains NO markdown table",
+        "The opening turn asks at most three questions",
+        "Does NOT present a numbered or bulleted list of questions to answer",
+        "Does NOT stack the shape-of-week question and the intake questions in the same turn",
+        "Does NOT show or describe the internal 'what to run' routing table to the user",
+        "Register is warm and plain, uses contractions, reads like a person rather than a form"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "interrupt-driven-week",
+      "prompt": "i keep setting goals and then my week eats them. i run a small agency, eight people, and every single day is whatever comes in the door. i've tried blocking out tuesday evenings four separate times now and it has never once survived a month. i want to get fitter and i want to actually finish a pricing decision i've been going round in circles on.",
+      "expected_output": "Reads this as an interrupt-driven shape rather than a discipline failure. The measure should hang off a trigger that already fires.",
+      "assertions": [
+        "Does NOT prescribe another fixed recurring time block as the fix",
+        "Treats the four failed Tuesday blocks as evidence about the shape of his week, not about his discipline or willpower",
+        "Does NOT use the 'other people with your schedule do this' push on him",
+        "Proposes or asks about attaching the measure to a trigger that already happens, rather than to a clock time",
+        "Notices that 'finish a pricing decision' is a decision rather than a doable next action, and either gives it a time and place or asks for the smallest version with an actual end",
+        "Cuts to one goal rather than accepting both plus more",
+        "No markdown headings or tables in the opening turn"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "no-reliable-block-degrades-gracefully",
+      "prompt": "i work full time and i'm also looking after my mum, she's got dementia and she lives with us now. there is genuinely not one point in the week that's reliably mine, and my sleep is broken most nights. i still want one thing in my life that's actually for me. is there any point in me even doing this",
+      "expected_output": "The zero-capacity case. Must reach one very small goal attached to something that already happens, and must not conclude she should set nothing.",
+      "assertions": [
+        "Does NOT tell her she has no capacity, or that she should not set goals now, or that she should wait until things settle",
+        "Answers her direct question ('is there any point') plainly rather than deflecting into more questions",
+        "Reaches exactly ONE goal sized to what genuinely exists (minutes, not hours)",
+        "Attaches it to something that already happens rather than to a new slot she has to defend",
+        "Checks that the thing it hangs off is not itself part of the caring load",
+        "Does NOT run an arithmetic step that makes her state her own lack of capacity",
+        "Does NOT use the word 'discipline', including to rule it out",
+        "Does NOT read as a diagnosis or an assessment",
+        "Does NOT substitute a referral to a therapist or carer's service for doing the planning work",
+        "No reassurance-as-data ('lots of carers feel this way')"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "cyclical-capacity",
+      "prompt": "i'm a paramedic on a rolling shift pattern, four on then four off, so my weeks aren't weeks. every planning thing i've ever tried assumes monday to friday and it falls apart by the second rota. i want to get back to studying for my mentorship qualification.",
+      "expected_output": "Should notice the week is not the right unit and count in her actual cycle.",
+      "assertions": [
+        "Recognises that a calendar week is not the right unit and adopts her four-on-four-off cycle instead",
+        "Sets the measure per cycle rather than per week",
+        "Does NOT propose a fixed weekday or a same-day-every-week check-in without adapting it to the rota",
+        "Does NOT quote the 85% figure at her, since her quarter holds far fewer attempts",
+        "Does NOT treat previous failures as a motivation problem",
+        "Keeps it to one goal",
+        "No markdown headings or tables in the opening turn"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "latency-to-commitment",
+      "prompt": "i want to set some goals for the next few months. work stuff and personal stuff both. where do we start",
+      "expected_output": "A first session is twenty minutes and ends with one action, one owner, one date. This eval exists because diagnosis quality is worth nothing if the person leaves before the plan lands. Run it as a five-turn conversation with realistic short user replies.",
+      "assertions": [
+        "A specific, measurable number is on the table by assistant turn 3",
+        "A next action with a date or a defined trigger is set by assistant turn 5",
+        "The assistant asks no more than five questions in total before the first concrete commitment",
+        "The shape-of-week question is asked at most once, and no follow-up to it is asked unless the user's answer was unusual",
+        "The session does not end with the user holding only a diagnosis of their situation"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "solo-by-default",
+      "prompt": "i've got about an hour on sunday evenings and that's it. i want to sort out my goals for this quarter. i live on my own.",
+      "expected_output": "The full goals machinery should run for one person without asking about a partner or producing couple-shaped output.",
+      "assertions": [
+        "Does NOT ask about a partner, spouse, or 'the other person'",
+        "Does NOT label goals his/hers/ours",
+        "Still runs the dependency question in its solo form (who else pays for this, even if the answer is nobody)",
+        "Says once that living alone doesn't make the goal free, without labouring it",
+        "Caps at one goal given one hour a week, not three",
+        "Any file output it produces contains no partner fields"
+      ]
+    }
+  ]
+}
