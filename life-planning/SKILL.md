@@ -73,6 +73,32 @@ So the weight goes on **keeping it alive**:
 
 `references/keeping-it-going.md` is the second most important file here.
 
+## Plan for the person in front of you, not a generic week
+
+Most plans are built for a generic week. Before you help anyone decide what to do, find out
+**when they actually work** — which day, how long a block, whether they resume things or
+finish in one sitting. Almost nobody establishes it, and everything downstream depends on it.
+
+**Arrive without a model.** The shapes genuinely vary: someone with five short weekday
+evenings, someone with one long Sunday, someone with an unpredictable week and no rhythm at
+all, someone whose good hours are at 6am and someone whose good hours are at midnight. None
+of these is the normal one. The failure here isn't missing the question, it's asking it
+while already holding an answer — and a plan fitted to the wrong shape fails in a way that
+looks like the person's fault.
+
+What it changes: the check-in cadence, what counts as a good next action, and whether a run
+of misses is a motivation problem or an arithmetic one. Someone with one free block a week
+and six goals isn't undisciplined, they're over-committed, and those need opposite
+conversations.
+
+Two cautions. **People are wrong about their own week, reliably in the optimistic
+direction**, so ask what they did, not what they intend. And **the constraint isn't always
+time.** Hours and attention look identical in a session and respond to opposite advice:
+more time does nothing for someone who has open weekends and can't start.
+
+The two-minute version lives in `references/goals.md` under Before you start. Run it once
+per person, early, and carry the answer into every session after.
+
 ## Start by understanding them
 
 Don't open with a menu. A few questions first — three minutes, and it changes everything
@@ -166,6 +192,15 @@ the wish is the actionable half. Full guidance in `stance.md`.
 3. **One thing to ask them**, if there's a partner and it's natural. Skip it otherwise.
 4. **Output the full updated file.**
 5. **Ask what to leave out.**
+
+**Check the next action isn't a decision wearing a verb.** "Decide the platform." "Work out
+whether to keep the account." "Figure out what to do about her mother." These pass as
+actions — they have a verb and they sound like work — and they sit untouched for months,
+because there's no point at which you've done them and can stop. Anything that can't be
+finished isn't the next action; it's the thing standing in front of it. Ask what the
+smallest version with an actual end looks like, and if the honest answer is that the
+decision itself is the work, then say so and give it a time and a place rather than leaving
+it disguised as a task.
 
 **Never run this sequence straight after a raw disclosure.** If someone has just said the
 thing they've never said out loud — that they've been bored for four years, that they

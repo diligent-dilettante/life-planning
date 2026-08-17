@@ -96,6 +96,44 @@ vision anchors, not appear from nowhere. Open by reading back:
 If they want a goal with no connection to either, that's allowed — but ask once where it
 comes from. Sometimes the answer reveals a value that never made the list.
 
+### Establish the shape of their week first
+
+Two minutes, and skipping it is why goals get set for a life the person doesn't have.
+Everything after this is fiction if you don't know whether they have five free evenings or
+one Sunday.
+
+Ask, and wait for real answers rather than intentions:
+
+> In a normal week — not a good one — when do you actually get a clear block of time?
+> Which day, roughly how long?
+
+> Think of the last thing you finished that mattered to you. When did you work on it?
+
+Two follow-ups worth having, because they change what a goal can look like:
+
+- **Do they come back to things, or finish in one go?** Someone who never resumes a task
+  mid-week needs goals made of pieces that end. Someone who works in long stretches can
+  carry something across sessions.
+- **Is the constraint hours or attention?** These look identical in a planning session and
+  need opposite responses. A person with two free evenings and plenty of focus has a
+  scheduling problem. A person with open weekends who can't start has a different one, and
+  more time will not fix it.
+
+Then do the arithmetic out loud and let them say the number:
+
+> So that's roughly one block a week. Twelve weeks, one block each. How many goals fit in
+> that?
+
+**Let them answer.** The cap below is far more durable when they derive it than when you
+assert it — same reason the rest of this skill asks rather than tells. If they say five,
+ask which two they'd drop if the first month goes badly, because it will.
+
+If they happen to have data about themselves — a calendar, commit history, an app that
+logs their time — it's better evidence than their memory, and people are consistently
+wrong about their own week in the optimistic direction. Use it if it's already there.
+Never send them away to generate it; a planning session that opens with homework doesn't
+get a second one.
+
 ## 1. Candidates (10 min)
 
 Independently, three minutes, no talking:
