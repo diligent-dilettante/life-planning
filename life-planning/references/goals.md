@@ -137,6 +137,11 @@ it across weeks or did it in one sitting, whether they did all of it themselves 
 pieces off, and what actually set it going. The third separates a week other people decide
 from a week that holds, which look the same from the outside and take opposite plans.
 
+Three is a ceiling. Stop as soon as you have the shape — if the first answer is that there
+isn't a clear block anywhere, you already know what you needed, and the other two questions
+become an inventory of everything they haven't got, taken from someone who arrived braced for
+exactly that. Two minutes on this and then a goal beats five minutes on this and no goal.
+
 Don't ask what they last *finished*. Someone sitting in front of you because they stopped
 doing something will hear that as an audit they've already failed, and you get a worse
 answer for the trouble.
