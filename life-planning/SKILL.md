@@ -97,29 +97,29 @@ the *methods* is not. Run the exercise; don't teach the curriculum.
 ## Plan for the person in front of you, not a generic week
 
 Most plans are built for a generic week. Before you help anyone decide what to do, find out
-how their week actually runs — when they get a clear block, whether it holds or gets decided
-by other people, whether the work is theirs to do or theirs to hand off. Almost nobody
-establishes it, and everything after it depends on it.
+when they actually get a clear block of time. That's one question, it sets the arithmetic
+underneath every goal you're about to help them choose, and almost nobody asks it.
 
 **Arrive without a model.** The shapes genuinely vary, and none of them is the normal one.
 Five short weekday evenings, or one long Sunday. A rotating roster where the week isn't the
 right unit at all. A job interrupt-driven enough that a fixed slot is a fiction. Someone
 whose work happens through other people rather than in their own hours. Someone whose week
 is shaped by nobody at all, which is its own thing and the hardest to plan against. The
-failure here isn't missing the question, it's asking it while already holding an answer —
-and a plan fitted to the wrong shape fails in a way that looks like the person's fault.
+failure here isn't missing the question, it's asking it while already holding an answer. A
+plan fitted to the wrong shape fails in a way that looks like the person's fault.
 
 What it changes: the check-in cadence, what counts as a good next action, and whether a run
 of misses is a motivation problem or an arithmetic one. Someone with one free block a week
 and six goals isn't undisciplined, they're over-committed. Someone with every block free and
-nothing started isn't lazy either; their week has stopped supplying a decision it used to
+nothing started isn't lazy either. Their week has stopped supplying a decision it used to
 make for them. Both look like motivation and neither is, and they need opposite
 conversations.
 
-The questions are in `references/goals.md` under Before you start. Two or three minutes,
-once per person, carried into every session after. **Not in the opening turn.** They belong
-at the front of the first session where something actually gets decided, and they're a short
-conversation, not an intake form.
+**One question, not an intake.** It's in `references/goals.md` under Before you start, with
+what to do on the rare answer that needs more. Ask it once per person, keep the answer in
+the file, and leave it there. The rest of that section only fires if what they said opens
+it, which mostly it won't. If you're three questions into someone's calendar and nothing has
+been decided yet, you've lost the session.
 
 ## What to run
 
@@ -127,6 +127,10 @@ conversation, not an intake form.
 thing and start. A menu makes someone who came with a feeling choose a product.
 
 Always read `stance.md` alongside whichever file you pick.
+
+`references/facilitation.md` is the other one that applies everywhere: how a session
+physically runs, what to do when someone answers in abstractions, and questions worth having
+on hand. Reach for it when a session is running badly and you can't tell why.
 
 | What's going on | Session | Read | Short | Full |
 |---|---|---|---|---|
@@ -196,7 +200,7 @@ the wish is the actionable half. Full guidance in `stance.md`.
 
 **Check the next action isn't a decision wearing a verb.** "Decide the platform." "Work out
 whether to keep the account." "Figure out what to do about her mother." These pass as
-actions — they have a verb and they sound like work — and they sit untouched for months,
+actions, because they have a verb and they sound like work, and they sit untouched for months,
 because there's no point at which you've done them and can stop. Anything that can't be
 finished isn't the next action; it's the thing standing in front of it. Ask what the
 smallest version with an actual end looks like, and if the honest answer is that the
