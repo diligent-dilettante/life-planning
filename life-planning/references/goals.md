@@ -11,6 +11,11 @@ list, and a long list is the main way this fails.
 
 **One goal. Theirs. Twelve weeks.**
 
+Ask about their week before step 1. One question — *in a normal week, when do you actually
+get a clear block of time?* — and everything below gets sized to the answer instead of to a
+week they don't have. The fuller version is under [Before you start](#before-you-start), and
+it's worth running once with anyone you'll see again.
+
 1. **What one thing?**
    > What would you want to be true in twelve weeks that isn't true now?
 
@@ -98,41 +103,60 @@ comes from. Sometimes the answer reveals a value that never made the list.
 
 ### Establish the shape of their week first
 
-Two minutes, and skipping it is why goals get set for a life the person doesn't have.
-Everything after this is fiction if you don't know whether they have five free evenings or
-one Sunday.
+Two or three minutes, and skipping it is why goals get set for a life the person doesn't
+have. Three questions, in conversation, not read off a list:
 
-Ask, and wait for real answers rather than intentions:
+> In a normal week — if there's such a thing for you — when do you actually get a clear
+> block of time?
 
-> In a normal week — not a good one — when do you actually get a clear block of time?
-> Which day, roughly how long?
+> Think of the last thing you finished that mattered to you. How did it get done — when did
+> you work on it, and was anyone else involved?
 
-> Think of the last thing you finished that mattered to you. When did you work on it?
+> If you decide on Monday what the week holds, does that usually survive to Friday?
 
-Two follow-ups worth having, because they change what a goal can look like:
+The first gives you hours. The second gives you most of the rest: whether they came back to
+it across weeks or finished it in one sitting, whether they did all of it themselves or
+handed pieces off, whether they needed someone else there to start. The third tells you
+whether they can hold a fixed slot at all.
 
-- **Do they come back to things, or finish in one go?** Someone who never resumes a task
-  mid-week needs goals made of pieces that end. Someone who works in long stretches can
-  carry something across sessions.
-- **Is the constraint hours or attention?** These look identical in a planning session and
-  need opposite responses. A person with two free evenings and plenty of focus has a
-  scheduling problem. A person with open weekends who can't start has a different one, and
-  more time will not fix it.
+Take what they did over what they intend. People are wrong about their own week in the
+optimistic direction, reliably, and a calendar they already keep beats their memory. Never
+send them away to generate evidence; a session that opens with homework doesn't get a
+second one.
 
-Then do the arithmetic out loud and let them say the number:
+Three things to listen for. Don't ask about them directly unless the answers point there —
+each one changes what a good goal looks like:
 
-> So that's roughly one block a week. Twelve weeks, one block each. How many goals fit in
-> that?
+- **The week isn't always the unit.** A rotating roster, term time, a season, a travel
+  cycle. Ask what the cycle is and count in that instead, or the number will be wrong every
+  week and right on average, which is the worst of both.
+- **Interrupt-driven work can't hold a slot.** If other people decide the day, Tuesday at
+  8pm is a fiction, and missing it twelve times isn't a discipline finding. Hang the lead
+  measure off a trigger that already fires — after the last call, before opening the
+  laptop — rather than off a time.
+- **Some people's work happens through other people.** Then the measure is the handoff and
+  the follow-up, not hours at a desk. A goal written as solo effort will read as a failure
+  in every week they did exactly the right thing.
 
-**Let them answer.** The cap below is far more durable when they derive it than when you
+And the constraint isn't always hours. Two free evenings and plenty of focus is a
+scheduling problem; open weekends and no start is a different one, and more time won't
+touch it. The two look identical in a session and take opposite advice.
+
+Then the arithmetic, out loud, and let them say the number:
+
+> So that's roughly one block a week, and twelve weeks. How much fits in that?
+
+**Let them answer.** The cap below holds far better when they derive it than when you
 assert it — same reason the rest of this skill asks rather than tells. If they say five,
-ask which two they'd drop if the first month goes badly, because it will.
+ask which two they'd drop if the first month goes badly, because it will. And if the blocks
+are wide open and the difficulty is starting, don't run this step at all. It will hand them
+five goals, and the fifth one becomes the reason none of the others began.
 
-If they happen to have data about themselves — a calendar, commit history, an app that
-logs their time — it's better evidence than their memory, and people are consistently
-wrong about their own week in the optimistic direction. Use it if it's already there.
-Never send them away to generate it; a planning session that opens with homework doesn't
-get a second one.
+**If the honest answer is that there's no reliable block anywhere**, that is not zero goals.
+It's one, sized to what genuinely exists — ten minutes, one phone call, one thing on the way
+home — attached to something that already happens. Say once that it's a real constraint
+rather than a discipline problem, and then get on with the goal. A capacity finding is not a
+diagnosis and shouldn't be delivered as one.
 
 ## 1. Candidates (10 min)
 

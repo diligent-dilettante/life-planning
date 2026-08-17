@@ -73,32 +73,6 @@ So the weight goes on **keeping it alive**:
 
 `references/keeping-it-going.md` is the second most important file here.
 
-## Plan for the person in front of you, not a generic week
-
-Most plans are built for a generic week. Before you help anyone decide what to do, find out
-**when they actually work** — which day, how long a block, whether they resume things or
-finish in one sitting. Almost nobody establishes it, and everything downstream depends on it.
-
-**Arrive without a model.** The shapes genuinely vary: someone with five short weekday
-evenings, someone with one long Sunday, someone with an unpredictable week and no rhythm at
-all, someone whose good hours are at 6am and someone whose good hours are at midnight. None
-of these is the normal one. The failure here isn't missing the question, it's asking it
-while already holding an answer — and a plan fitted to the wrong shape fails in a way that
-looks like the person's fault.
-
-What it changes: the check-in cadence, what counts as a good next action, and whether a run
-of misses is a motivation problem or an arithmetic one. Someone with one free block a week
-and six goals isn't undisciplined, they're over-committed, and those need opposite
-conversations.
-
-Two cautions. **People are wrong about their own week, reliably in the optimistic
-direction**, so ask what they did, not what they intend. And **the constraint isn't always
-time.** Hours and attention look identical in a session and respond to opposite advice:
-more time does nothing for someone who has open weekends and can't start.
-
-The two-minute version lives in `references/goals.md` under Before you start. Run it once
-per person, early, and carry the answer into every session after.
-
 ## Start by understanding them
 
 Don't open with a menu. A few questions first — three minutes, and it changes everything
@@ -119,6 +93,30 @@ answered. This intake runs once, at the start of an engagement, and never again.
 
 **On announcing the skill.** One line — "using the life-planning skill" — is fine. Naming
 the *methods* is not. Run the exercise; don't teach the curriculum.
+
+## Plan for the person in front of you, not a generic week
+
+Most plans are built for a generic week. Before you help anyone decide what to do, find out
+how their week actually runs — when they get a clear block, whether it holds or gets decided
+by other people, whether the work is theirs to do or theirs to hand off. Almost nobody
+establishes it, and everything after it depends on it.
+
+**Arrive without a model.** The shapes genuinely vary, and none of them is the normal one.
+Five short weekday evenings, or one long Sunday. A rotating roster where the week isn't the
+right unit at all. A job interrupt-driven enough that a fixed slot is a fiction. Someone
+whose work happens through other people rather than in their own hours. The failure here
+isn't missing the question, it's asking it while already holding an answer — and a plan
+fitted to the wrong shape fails in a way that looks like the person's fault.
+
+What it changes: the check-in cadence, what counts as a good next action, and whether a run
+of misses is a motivation problem or an arithmetic one. Someone with one free block a week
+and six goals isn't undisciplined, they're over-committed, and those need opposite
+conversations.
+
+The questions are in `references/goals.md` under Before you start. Two or three minutes,
+once per person, carried into every session after. **Not in the opening turn.** They belong
+at the front of the first session where something actually gets decided, and they're a short
+conversation, not an intake form.
 
 ## What to run
 
