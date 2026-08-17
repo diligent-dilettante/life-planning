@@ -104,13 +104,16 @@ establishes it, and everything after it depends on it.
 **Arrive without a model.** The shapes genuinely vary, and none of them is the normal one.
 Five short weekday evenings, or one long Sunday. A rotating roster where the week isn't the
 right unit at all. A job interrupt-driven enough that a fixed slot is a fiction. Someone
-whose work happens through other people rather than in their own hours. The failure here
-isn't missing the question, it's asking it while already holding an answer — and a plan
-fitted to the wrong shape fails in a way that looks like the person's fault.
+whose work happens through other people rather than in their own hours. Someone whose week
+is shaped by nobody at all, which is its own thing and the hardest to plan against. The
+failure here isn't missing the question, it's asking it while already holding an answer —
+and a plan fitted to the wrong shape fails in a way that looks like the person's fault.
 
 What it changes: the check-in cadence, what counts as a good next action, and whether a run
 of misses is a motivation problem or an arithmetic one. Someone with one free block a week
-and six goals isn't undisciplined, they're over-committed, and those need opposite
+and six goals isn't undisciplined, they're over-committed. Someone with every block free and
+nothing started isn't lazy either; their week has stopped supplying a decision it used to
+make for them. Both look like motivation and neither is, and they need opposite
 conversations.
 
 The questions are in `references/goals.md` under Before you start. Two or three minutes,
